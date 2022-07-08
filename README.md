@@ -8,7 +8,9 @@
  <ol>
   <li><a href="#prerequisites">Prerequisites</a></li>
   <li><a href="#installation">Installation</a></li>
+  <li><a href="#usage">Usage</a></li>
   <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
  </ol>
  </details>
  
@@ -27,6 +29,10 @@
  cd Bash-steam-proton-ge-installer
  chmod +x ./*.sh
  ```
+
+### Usage
+
+Execute `./steamgeinstaller.sh`
 
 ## Contributing
 
