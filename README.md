@@ -1,5 +1,3 @@
-# Bash-steam-proton-ge-installer
-
 <h3 align="center">Bash-Steam-Proton-GE-installer</h3>
 <p align="center">A bash script for installing Glorious-Eggroll's Proton on Steam</p>
 
