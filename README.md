@@ -14,9 +14,9 @@
  
  ### Prerequisites
  
- BASH
- wget
- tar
+ - BASH
+ - wget
+ - tar
  
  ### Installation
  
