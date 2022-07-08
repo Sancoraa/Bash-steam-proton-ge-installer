@@ -31,3 +31,7 @@
 ## Contributing
 
 You can fork the repo and create a pull request if you want to make any enhancements or simply to update the scripts. Any contributions are **greatly appreciated**.
+
+## License
+
+Distributed under the GNU GPLv3. See `LICENSE.txt` for more information.
