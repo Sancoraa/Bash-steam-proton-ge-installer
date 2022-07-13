@@ -4,7 +4,6 @@
 <details>
  <summary>Table of Contents</summary>
  <ol>
-  <li><a href="#prerequisites">Prerequisites</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#contributing">Contributing</a></li>
@@ -12,11 +11,6 @@
  </ol>
  </details>
  
- ### Prerequisites
- 
- - BASH
- - wget
- - tar
  
  ### Installation
  
